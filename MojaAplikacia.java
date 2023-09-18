@@ -6,8 +6,6 @@ public class MojaAplikacia {
     public static void main(String[] args) {
         StringBuilder s = new StringBuilder("retazec");
         int cislo = 10678;
-        gewgwegweg
-            gwe
         cislo = zmen(cislo);
         
         System.out.println(s);
@@ -19,7 +17,7 @@ public class MojaAplikacia {
     }
     
     public static int zmen(int cislo){
-        cislo += 5;
+        cislo += 55;
         return cislo; 
     }
 }
