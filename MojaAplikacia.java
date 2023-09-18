@@ -6,8 +6,8 @@ public class MojaAplikacia {
     public static void main(String[] args) {
         StringBuilder s = new StringBuilder("retazec");
         int cislo = 10;
-        
-        zmen(s);
+        gewgwegweg
+            gwe
         cislo = zmen(cislo);
         
         System.out.println(s);
