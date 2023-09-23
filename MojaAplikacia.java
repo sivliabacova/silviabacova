@@ -11,9 +11,11 @@ public class MojaAplikacia {
         System.out.println(s);
         System.out.println(cislo);
         hweherh
-            jrejtjtrjtr
-            ewTšTšč
-            ZčZčš
+        jrejtjtrjtr
+        ewTšTšč
+        ZčZčš
+        zreher
+        hfdhfdhfd
     }
     
     public static void zmen(StringBuilder s){
