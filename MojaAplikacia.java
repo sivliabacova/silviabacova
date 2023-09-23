@@ -13,8 +13,8 @@ public class MojaAplikacia {
         hweherh
         jrejtjtrjtr
         ewTšTšč
-        ZčZčš
-        zreher
+        ZčZčšg gew gew
+        zreher gew
         hfdhfdhfd
     }
     
