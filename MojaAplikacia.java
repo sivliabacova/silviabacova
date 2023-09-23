@@ -10,6 +10,8 @@ public class MojaAplikacia {
         
         System.out.println(s);
         System.out.println(cislo);
+        hweherh
+            jrejtjtrjtr
     }
     
     public static void zmen(StringBuilder s){
