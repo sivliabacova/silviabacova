@@ -14,6 +14,8 @@ public class MojaAplikacia {
         jrejtjtrjtr
         ewTšTšč
         ZčZčšg gew gew
+            gpmkwemgklwe;
+        wmgekmgelw;
         zreher gew
         hfdhfdhfd
     }
