@@ -6,3 +6,5 @@ glkwčmkre;
 lkgrgke;
 hbmrekmrke;
 gewkmgewkl;
+lkmgwkmekw;
+lkmewklklew;
